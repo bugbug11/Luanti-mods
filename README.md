@@ -1,5 +1,5 @@
 # My mods and mod ideas
-### I am a noob at modding
+### I am a noob at modding; please report any issues so I can fix them
 
 ## `dimension_lib`:
 ### DESCRIPTION:
